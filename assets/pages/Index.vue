@@ -3,7 +3,7 @@
     <section class="hero is-small mt-4">
       <div class="hero-body">
         <div class="container">
-          <h1 class="title">Hello, there!</h1>
+          <h1 class="title">Ender Turing Speech-Engine Logging</h1>
         </div>
       </div>
     </section>
@@ -20,12 +20,12 @@
           <p class="heading">Running</p>
         </div>
       </div>
-      <div class="level-item has-text-centered">
-        <div>
-          <p class="title">{{ version }}</p>
-          <p class="heading">Dozzle Version</p>
-        </div>
-      </div>
+<!--      <div class="level-item has-text-centered">-->
+<!--        <div>-->
+<!--          <p class="title">{{ version }}</p>-->
+<!--          <p class="heading">Dozzle Version</p>-->
+<!--        </div>-->
+<!--      </div>-->
     </section>
 
     <section class="columns is-centered section">
